@@ -1,4 +1,4 @@
-# wails-angular-template
+# wails-template-angular
 
 Build beautiful cross-platform applications using Go + Angular!
 
@@ -8,7 +8,7 @@ The following command will pull down the github template repo
 and slightly customize it based on the arguments passed:
 
 ```bash
-wails init -n wails-ng -t https://github.com/mateothegreat/wails-angular-template
+wails init -n wails-ng -t https://github.com/mateothegreat/wails-template-angular
 ```
 At the time of this writing I used Wails v2.4.0 and Angular 15.2.0.
 

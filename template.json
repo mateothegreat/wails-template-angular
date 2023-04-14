@@ -1,7 +1,7 @@
 {
-    "name": "https://github.com/mateothegreat/wails-angular-template",
+    "name": "https://github.com/mateothegreat/wails-template-angular",
     "shortname": "angular",
     "author": "Matthew Davis <matthew@matthewdavis.io>",
-    "description": "Build beautiful cross-platform applications using Go + Angular!\n\n",
-    "helpurl": "https://github.com/mateothegreat/wails-angular-template"
+    "description": "Build beautiful cross-platform applications using Go + Angular!",
+    "helpurl": "https://github.com/mateothegreat/wails-template-angular"
 }
