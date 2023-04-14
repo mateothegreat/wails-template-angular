@@ -1,0 +1,15 @@
+
+{
+    "$schema": "https://wails.io/schemas/config.v2.json",
+    "name": "{{.ProjectName}}",
+    "assetdir": "frontend/dist",
+    "frontend:build": "npx ng build",
+    "frontend:install": "npm install",
+    "frontend:dev:watcher": "npx ng serve",
+    "frontend:dev:serverUrl": "http://localhost:4200",
+    "wailsjsdir": "./frontend",
+    "Author": {
+        "name": "{{.AuthorName}}",
+        "email": "{{.AuthorEmail}}"
+    }
+}
